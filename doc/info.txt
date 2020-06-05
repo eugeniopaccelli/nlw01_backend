@@ -6,3 +6,7 @@
 // Request Param: Parâmetro recebido na rota para identificar um recurso.
 // Query Param: Parâmetros opcionais recebidos na rota usados como filtros, paginação, etc.
 // Request Body: Parâmetros para criação e atualização de informações em um recurso.
+
+
+CheatSheet Knex:
+https://devhints.io/knex
